@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-security-kerberos-client
+Implementation-Version: 1.0.1.RELEASE
+Created-By: 1.8.0_151-1-redhat (Oracle Corporation)
+
